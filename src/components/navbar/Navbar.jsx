@@ -3,7 +3,7 @@ import React from "react";
 import { BiHomeAlt2 } from "react-icons/bi";
 import { LuClock3 } from "react-icons/lu";
 import { TfiStatsUp } from "react-icons/tfi";
-
+//
 const Navbar = () => {
   return (
     <nav className=' h-15 mx-auto  border border-gray-300'>
