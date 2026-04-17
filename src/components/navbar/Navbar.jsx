@@ -6,7 +6,7 @@ import { TfiStatsUp } from "react-icons/tfi";
 //
 const Navbar = () => {
   return (
-    <nav className=' h-15 mx-auto  border border-gray-300'>
+    <nav className=' h-15 mx-auto  border border-gray-300 '>
       <div className='flex justify-between w-11/12 mx-auto items-center'>
         <div>
           <h1 className='font-bold text-2xl mt-3'>

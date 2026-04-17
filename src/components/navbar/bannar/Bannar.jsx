@@ -3,8 +3,8 @@ import { FaPlus } from "react-icons/fa6";
 
 const Bannar = () => {
   return (
-    <div>
-      <div className='pt-15'>
+    <div className='bg-gray-100 full'>
+      <div className='pt-15 '>
         <div className=''>
           <h1 className='text-5xl font-bold flex justify-center items-center'>
             Friends to keep close in your life
