@@ -4,6 +4,7 @@ import instagramImg from "../../assets/assets/instagram.png";
 import facebookImg from "../../assets/assets/facebook.png";
 import twitterImg from "../../assets/assets/twitter.png";
 
+//
 const Footer = () => {
   return (
     <div className=''>
