@@ -52,7 +52,7 @@ const Card = () => {
         </div>
       </div>
       <div className='font-bold text-2xl w-10/12 mx-auto pt-7'>
-        <h1 className='pl-35'>Your Friends</h1>
+        <h1 className='pl-30'>Your Friends</h1>
       </div>
       <div>
         <div className='flex col-rowspan-4  mx-auto justify-center items-center gap-x-5 pt-2'>
